@@ -1,0 +1,6 @@
+C:\Users\Windows 11 Pro\Desktop\Cancer\Frosties\MyFirstPlugin\obj\Debug\netstandard2.0\MyFirstPlugin.csproj.AssemblyReference.cache
+C:\Users\Windows 11 Pro\Desktop\Cancer\Frosties\MyFirstPlugin\obj\Debug\netstandard2.0\MyPluginInfo.cs
+C:\Users\Windows 11 Pro\Desktop\Cancer\Frosties\MyFirstPlugin\obj\Debug\netstandard2.0\MyFirstPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11 Pro\Desktop\Cancer\Frosties\MyFirstPlugin\obj\Debug\netstandard2.0\MyFirstPlugin.AssemblyInfoInputs.cache
+C:\Users\Windows 11 Pro\Desktop\Cancer\Frosties\MyFirstPlugin\obj\Debug\netstandard2.0\MyFirstPlugin.AssemblyInfo.cs
+C:\Users\Windows 11 Pro\Desktop\Cancer\Frosties\MyFirstPlugin\obj\Debug\netstandard2.0\MyFirstPlugin.csproj.CoreCompileInputs.cache
